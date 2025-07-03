@@ -1,6 +1,5 @@
 # Mohammad Orabe - Research & Projects
 
-[![GitHub followers](https://img.shields.io/github/followers/orabe?style=social)](https://github.com/orabe)
 [![Website](https://img.shields.io/badge/Website-orabe.github.io-blue)](https://orabe.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammad--orabe-blue)](https://www.linkedin.com/in/mohammad-orabe/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--7177--799X-green)](https://orcid.org/0009-0004-7177-799X)
