@@ -2,7 +2,7 @@
 
 Machine learning researcher specializing in neurotechnology, and open-source software development.
 
-**Research Focus:** Computational Neuroscience • Machine Learning • Brain-Computer Interfaces
+**Research Focus:** Machine Learning • Neurotechnology
 
 ## 🛠️ Current Projects
 
