@@ -6,5 +6,5 @@ Machine learning researcher specializing in neurotechnology, and open-source sof
 
 ## 🛠️ Current Projects
 
-**🧠 CaliBrain** - Python toolbox for electrophysiological data analysis  
+**🧠 CaliBrain** - Framework to measure uncertainty estimation and calibration in EEG/MEG inverse source imaging.
 **🚶 GaitMod** - Real-time gait classification for Parkinson's Disease  
