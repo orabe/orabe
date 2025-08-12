@@ -4,6 +4,6 @@ Machine learning researcher specializing in Machine Learning, neurotechnology, a
 
 ## 🛠️ Ongoing Projects
 
-**🧠 CaliBrain** - Python framework for uncertainty estimation and calibration in EEG/MEG inverse source imaging - [Link](https://github.com/orabe/gaitmod).
+**🧠 CaliBrain** - Python framework for uncertainty estimation and calibration in EEG/MEG inverse source imaging - [Link](https://github.com/braindatalab/CaliBrain).
 
-**🚶 GaitMod** - Python library for real-time gait modulation prediction using multimodal neural — designed for closed-loop DBS systems in Parkinson’s disease - [Link](https://github.com/braindatalab/CaliBrain). 
+**🚶 GaitMod** - Deep learning-based classification of gait modulation from brain signals — designed for closed-loop deep brain stimulation - [Link](https://github.com/orabe/gaitmod).
