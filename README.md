@@ -1,10 +1,8 @@
-# Mohammad Orabe - Research & Projects
+# Mohammad Orabe
 
-Machine learning researcher specializing in neurotechnology, and open-source software development.
+Machine learning researcher specializing in Machine Learning, neurotechnology, and open-source software development.
 
-**Research Focus:** Machine Learning • Neurotechnology
-
-## 🛠️ Current Projects
+## 🛠️ Ongoing Projects
 
 **🧠 CaliBrain** - Python framework for uncertainty estimation and calibration in EEG/MEG inverse source imaging - [Link](https://github.com/orabe/gaitmod).
 
